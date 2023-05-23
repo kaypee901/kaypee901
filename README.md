@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaypee901
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning EDD
+- 🌱 I’m currently learning about generative AI
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me github.com/kaypee901
 
